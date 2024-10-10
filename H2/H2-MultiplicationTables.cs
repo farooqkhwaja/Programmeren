@@ -21,25 +21,25 @@ namespace Labo2
             int by9 = 411 * 9;
             int by10 = 411 * 110;
 
-            Console.WriteLine($"1 * 11 is {by1}");
+            Console.WriteLine($"1 * 411 is {by1}");
             Console.ReadLine();
-            Console.WriteLine("2 * 11 is " + by2);
+            Console.WriteLine("2 * 411 is " + by2);
             Console.ReadLine();
-            Console.WriteLine("3 * 11 is " + by3);
+            Console.WriteLine("3 * 411 is " + by3);
             Console.ReadLine();
-            Console.WriteLine("4 * 11 is " + by4);
+            Console.WriteLine("4 * 411 is " + by4);
             Console.ReadLine();
-            Console.WriteLine("5 * 11 is "+ by5);
+            Console.WriteLine("5 * 411 is "+ by5);
             Console.ReadLine();
-            Console.WriteLine("6 * 11 is " + by6);
+            Console.WriteLine("6 * 411 is " + by6);
             Console.ReadLine();
-            Console.WriteLine("7 * 11 is " + by7);
+            Console.WriteLine("7 * 411 is " + by7);
             Console.ReadLine();
-            Console.WriteLine("8 * 11 is " + by8);
+            Console.WriteLine("8 * 411 is " + by8);
             Console.ReadLine();
-            Console.WriteLine("9 * 11 is " + by9);
+            Console.WriteLine("9 * 411 is " + by9);
             Console.ReadLine();
-            Console.WriteLine("10 * 11 is " + by10);
+            Console.WriteLine("10 * 411 is " + by10);
             Console.ReadLine();
 
             int number = 411;
